@@ -19,22 +19,7 @@ future provide a basic implementation of RDM discovery.
 
 ## Build
 
-1. Intialise the submodule dependancies ([RDM](https://github.com/ETCLabs/RDM) and [iOS CMake](https://github.com/leetal/ios-cmake)):
-```
-cd swiftRDM
-git submodule update --init --recursive
-```
-2. Install pkg-config (using [Homebrew](https://brew.sh/)):
-
-`brew install pkg-config`
-
-3. Install the RDM library:
-```
-cd RDM 
-mkdir build && cd build
-cmake -DCMAKE_TOOLCHAIN_FILE=../../ios-cmake/iOS.toolchain.cmake ..
-make install
-```
+Coming soon...
 
 To check the RDM library has been correctly made in the right location with a pkg-config file:
 
