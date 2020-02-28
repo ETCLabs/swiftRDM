@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "c-swiftRDM",
+        "repositoryURL": "https://github.com/ETCLabs/c-swiftRDM",
+        "state": {
+          "branch": null,
+          "revision": "4762a0c3079918d9323971edadb0c7b96ea973bf",
+          "version": "0.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
